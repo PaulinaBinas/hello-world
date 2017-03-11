@@ -1,4 +1,4 @@
 # hello-world
 Hello!
-I'm Pau. Generally interested in programming in C, C++ and now learning Java. 
-Also currently studying computer science at uni in Poland.
+I'm Paulina, from Poland. Generally interested in programming using C, C++ and now learning Java. 
+Also currently studying computer science and looking for an internship.
